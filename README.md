@@ -1,7 +1,7 @@
 # mail-statistical-parser
 Collect mail statistical data.
 
-Including:
+Includes:
   * attachment number
   * attachment Content-Type
   * email size
@@ -9,3 +9,4 @@ Including:
   * mime encoding
   * subject encoding
   * attachment encoding
+  * Envelope
